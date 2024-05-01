@@ -1,0 +1,7 @@
+{
+  "welcomeMessage": "Assalomu alaykum, Botga xush kelibsiz!",
+  "menuMessage": "Please select an option:\n1. Option 1\n2. Option 2",
+  "option1Message": "Tanlang",
+  "backMessage": "Orqaga",
+  "adminNotification": "Someone selected Option 1. You may want to take action."
+}
